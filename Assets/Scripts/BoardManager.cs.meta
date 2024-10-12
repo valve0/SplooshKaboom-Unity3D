@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ca0ca94e64d93aa4383ebf012c790888
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Tile: {fileID: 2586769006466560957, guid: 947e96d9f16aa604d86e797902f587da, type: 3}
+  - Bombs: {fileID: 6252542572387779372, guid: a9a49660811af534b803961ab7129e6e, type: 3}
+  - squidIcons: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
